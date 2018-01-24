@@ -1,0 +1,2 @@
+# Ecommerce-Website-for-Bidding
+●   Designed a website utilizing Service-Oriented MVC architecture, RESTful Web Services, JSP, AJAX, jQuery, HTML, CSS,JavaScript,Bootstrap. ●   Implemented user registration and login, ability to bid and post, search for a bid, filtering of bids and add the desired bid to the cart. The client-       server communication is TLS/SSL encrypted and gZip compressed ●   Implemented ORM framework with Hibernate and Single-Sign on using SAML. Implemented Mem Cached for caching
